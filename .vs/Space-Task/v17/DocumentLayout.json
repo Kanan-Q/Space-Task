@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Men\\source\\repos\\Space-Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44958B72-C570-4E2C-B2C1-CA3B83DD8E47}|Space-Task\\Space-Task.csproj|c:\\users\\men\\source\\repos\\space-task\\space-task\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44958B72-C570-4E2C-B2C1-CA3B83DD8E47}|Space-Task\\Space-Task.csproj|solutionrelative:space-task\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44958B72-C570-4E2C-B2C1-CA3B83DD8E47}|Space-Task\\Space-Task.csproj|c:\\users\\men\\source\\repos\\space-task\\space-task\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44958B72-C570-4E2C-B2C1-CA3B83DD8E47}|Space-Task\\Space-Task.csproj|solutionrelative:space-task\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44958B72-C570-4E2C-B2C1-CA3B83DD8E47}|Space-Task\\Space-Task.csproj|c:\\users\\men\\source\\repos\\space-task\\space-task\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44958B72-C570-4E2C-B2C1-CA3B83DD8E47}|Space-Task\\Space-Task.csproj|solutionrelative:space-task\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44958B72-C570-4E2C-B2C1-CA3B83DD8E47}|Space-Task\\Space-Task.csproj|c:\\users\\men\\source\\repos\\space-task\\space-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44958B72-C570-4E2C-B2C1-CA3B83DD8E47}|Space-Task\\Space-Task.csproj|solutionrelative:space-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14ADB8CB-51F6-4A65-A6DC-07A744982B31}|Core\\Core.csproj|c:\\users\\men\\source\\repos\\space-task\\core\\helper\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14ADB8CB-51F6-4A65-A6DC-07A744982B31}|Core\\Core.csproj|solutionrelative:core\\helper\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Men\\source\\repos\\Space-Task\\Space-Task\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Space-Task\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Men\\source\\repos\\Space-Task\\Space-Task\\AppDbContext.cs",
+              "RelativeToolTip": "Space-Task\\AppDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA3wCgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:28:54.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\Men\\source\\repos\\Space-Task\\Core\\Helper\\Region.cs",
+              "RelativeDocumentMoniker": "Core\\Helper\\Region.cs",
+              "ToolTip": "C:\\Users\\Men\\source\\repos\\Space-Task\\Core\\Helper\\Region.cs",
+              "RelativeToolTip": "Core\\Helper\\Region.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:27:36.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\Men\\source\\repos\\Space-Task\\Space-Task\\Planet.cs",
+              "RelativeDocumentMoniker": "Space-Task\\Planet.cs",
+              "ToolTip": "C:\\Users\\Men\\source\\repos\\Space-Task\\Space-Task\\Planet.cs",
+              "RelativeToolTip": "Space-Task\\Planet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:26:52.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Men\\source\\repos\\Space-Task\\Space-Task\\Country.cs",
+              "RelativeDocumentMoniker": "Space-Task\\Country.cs",
+              "ToolTip": "C:\\Users\\Men\\source\\repos\\Space-Task\\Space-Task\\Country.cs",
+              "RelativeToolTip": "Space-Task\\Country.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:26:35.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Men\\source\\repos\\Space-Task\\Space-Task\\Program.cs",
+              "RelativeDocumentMoniker": "Space-Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Men\\source\\repos\\Space-Task\\Space-Task\\Program.cs",
+              "RelativeToolTip": "Space-Task\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwD8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:25:18.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
